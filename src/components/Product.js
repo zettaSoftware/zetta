@@ -2,18 +2,18 @@ import React from "react";
 
 const Product = () => {
   return (
-    <div className="container relative w-full pb-8">
+    <div name="product" className="w-full text-black my-24">
       <div className="relative py-8">
       <h3 className="text-5xl font-bold py-8">Paket Service Terbaik</h3>
         <h2>Sebuah Website yang melayani service berupa</h2>
         <h2>Development hingga service Web Scraping</h2>
       </div>
       <div className="max-w-[1640px] mx-auto p-4 py-12 grid md:grid-cols-4 gap-6">
-        <div className="relative p-4 w-full max-w-sm bg-white rounded-lg border shadow-md sm:p-8 dark:bg-gray-800 dark:border-gray-700 hover:scale-105 duration-300">
+        <div className="relative p-4 w-full max-w-sm bg-white rounded-lg border shadow-md sm:p-8 hover:scale-105 duration-300">
           <h5 className="mb-4 text-xl font-medium text-gray-500 dark:text-gray-400">
             UI UX Design
           </h5>
-          <p className="text-gray-500 dark:text-gray-400">
+          <p className="py-6 text-gray-500 dark:text-gray-400">
             Sebuah Website yang melayani service berupa development hingga
             service web scrapping
           </p>
@@ -181,7 +181,7 @@ const Product = () => {
           <h5 className="mb-4 text-xl font-medium text-gray-500 dark:text-gray-400">
             Web Scraping
           </h5>
-          <p className="text-gray-500 dark:text-gray-400">
+          <p className="py-6 text-gray-500 dark:text-gray-400">
             Sebuah Website yang melayani service berupa development hingga
             service web scrapping
           </p>
@@ -349,7 +349,7 @@ const Product = () => {
           <h5 className="mb-4 text-xl font-medium text-gray-500 dark:text-gray-400">
             Fullstack Webdev
           </h5>
-          <p className="text-gray-500 dark:text-gray-400">
+          <p className="py-6 text-gray-500 dark:text-gray-400">
             Sebuah Website yang melayani service berupa development hingga
             service web scrapping
           </p>
@@ -517,7 +517,7 @@ const Product = () => {
           <h5 className="mb-4 text-xl font-medium text-gray-500 dark:text-gray-400">
             Fullstack Mobile Dev
           </h5>
-          <p className="text-gray-500 dark:text-gray-400">
+          <p className="py-6 text-gray-500 dark:text-gray-400">
             Sebuah Website yang melayani service berupa development hingga
             service web scrapping
           </p>
