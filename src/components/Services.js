@@ -3,8 +3,8 @@ import React from "react";
 const Services = () => {
   return (
     <div className="container w-full relative pb-8">
-      <h3 className="text-5xl font-bold py-8">Services</h3>
-      <div className="relative space-y-4">
+      <h3 className="text-5xl font-bold">Services</h3>
+      <div className="max-w-[1240px] mx-auto py-12">
         <div className="">
           <h2>A website that serves services in the form of</h2>
           <h2>Development to Web Scraping</h2>
@@ -14,7 +14,7 @@ const Services = () => {
           <div className="rounded-xl relative">
             {/* Overlay */}
             <div className="absolute w-full h-full rounded-xl text-white">
-              <button className="border-white rounded-lg px-8 bg-white text-black mx-2 absolute bottom-4">
+              <button className="flex border-white rounded-lg px-8 bg-[#0000FF] text-white mx-2 absolute bottom-4">
                 UI UX Designer
               </button>
             </div>
@@ -29,7 +29,7 @@ const Services = () => {
           <div className="rounded-xl relative">
             {/* Overlay */}
             <div className="absolute w-full h-full rounded-xl text-white">
-              <button className="border-white rounded-lg px-8 bg-white text-black mx-2 absolute bottom-4">
+              <button className="flex border-white rounded-lg px-8 bg-[#0000FF] text-white mx-2 absolute bottom-4">
                 Mobile Developer
               </button>
             </div>
@@ -44,7 +44,7 @@ const Services = () => {
           <div className="rounded-xl relative">
             {/* Overlay */}
             <div className="absolute w-full h-full rounded-xl text-white">
-              <button className="border-white rounded-lg px-8 bg-white text-black mx-2 absolute bottom-4">
+              <button className="flex border-white rounded-lg px-8 bg-[#0000FF] text-white mx-2 absolute bottom-4">
                 Web Scraping
               </button>
             </div>
@@ -59,7 +59,7 @@ const Services = () => {
           <div className="rounded-xl relative">
             {/* Overlay */}
             <div className="absolute w-full h-full rounded-xl text-white">
-              <button className="border-white rounded-lg px-8 bg-white text-black mx-2 absolute bottom-4">
+              <button className="flex border-white rounded-lg px-8 bg-[#0000FF] text-white mx-2 absolute bottom-4">
                 Web Development
               </button>
             </div>
