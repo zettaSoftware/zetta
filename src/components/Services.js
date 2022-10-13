@@ -4,7 +4,7 @@ const Services = () => {
   return (
     <div className="container w-full relative pb-8">
       <h3 className="text-5xl font-bold py-8">Services</h3>
-      <div className="space-y-4">
+      <div className="relative space-y-4">
       <div className="">
         <h2>A website that serves services in the form of</h2>
         <h2>Development to Web Scraping</h2>
