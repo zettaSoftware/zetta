@@ -14,11 +14,19 @@ const HeroBanner = () => {
           <h1 className="py-3 text-3xl md:text-5xl font-bold">
             4.0 in The World
           </h1>
-          <button className="py-3 px-6 rounded-lg text-2xl bg-[#0000FF] text-white my-4">Contact Us</button>
+          <p>
+            A website that serves services in the form of
+          </p>
+          <p>
+          Development to Web Scraping
+          </p>
+          <button className="py-3 px-6 rounded-lg text-2xl bg-[#0000FF] text-white my-4">
+            Contact Us
+          </button>
         </div>
         <div>
           <img
-            className="w-full"
+            className="w-full py-6"
             src="https://res.cloudinary.com/hafidkrntn/image/upload/v1665544014/rwid/banner_1_c2bvho.jpg"
             alt="/"
           />

@@ -52,7 +52,7 @@ const HasilPekerjaan = () => {
                 <CheckIcon className="w-8 mr-5 text-green-600" />
                 Lorem, ipsum dolor.
               </p>
-              <button className="rounded-lg border-2 text-[#0000FF] w-full py-4 my-4">Lihat Selengkapnya</button>
+              <button className="rounded-lg border-2 text-[#0000FF] hover:bg-blue-700 hover:text-white w-full py-4 my-4">Lihat Selengkapnya</button>
             </div>
           </div>
 
@@ -90,7 +90,7 @@ const HasilPekerjaan = () => {
                 <CheckIcon className="w-8 mr-5 text-green-600" />
                 Lorem, ipsum dolor.
               </p>
-              <button className="rounded-lg border-2 text-[#0000FF] w-full py-4 my-4">Lihat Selengkapnya</button>
+              <button className="rounded-lg border-2 text-[#0000FF] hover:bg-blue-700 hover:text-white w-full py-4 my-4">Lihat Selengkapnya</button>
             </div>
           </div>
 
@@ -128,7 +128,7 @@ const HasilPekerjaan = () => {
                 <CheckIcon className="w-8 mr-5 text-green-600" />
                 Lorem, ipsum dolor.
               </p>
-              <button className="rounded-lg border-2 text-[#0000FF] w-full py-4 my-4">Lihat Selengkapnya</button>
+              <button className="rounded-lg border-2 text-[#0000FF] hover:bg-blue-700 hover:text-white w-full py-4 my-4">Lihat Selengkapnya</button>
             </div>
           </div>
 
@@ -166,7 +166,7 @@ const HasilPekerjaan = () => {
                 <CheckIcon className="w-8 mr-5 text-green-600" />
                 Lorem, ipsum dolor.
               </p>
-              <button className="rounded-lg border-2 text-[#0000FF] w-full py-4 my-4">Lihat Selengkapnya</button>
+              <button className="rounded-lg border-2 text-[#0000FF] hover:bg-blue-700 hover:text-white w-full py-4 my-4">Lihat Selengkapnya</button>
             </div>
           </div>
         </div>

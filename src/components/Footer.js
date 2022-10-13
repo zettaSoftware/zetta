@@ -12,8 +12,8 @@ const Footer = () => {
     <div className="w-full mt-24 bg-[#000033] text-gray-300 py-y px-2">
       <div className="max-w-[1240px] mx-auto grid grid-cols-4 border-b-2 border-gray-600 py-8">
         <div className="col-span-2 pt-8 md:pt-2">
-          <p className="font-bold text-6xl">Zetta</p>
-          <p className="py-4">
+          <p className="text-left font-bold text-6xl">Zetta</p>
+          <p className="text-left py-4">
             The latest news, articles, and resources, sent to your inbox weekly.
           </p>
         </div>
