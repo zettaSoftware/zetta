@@ -8,7 +8,7 @@ const Product = () => {
         <h2>Sebuah Website yang melayani service berupa</h2>
         <h2>Development hingga service Web Scraping</h2>
       </div>
-      <div className='relative grid md:grid-cols-4 mx-auto px-8'>
+      <div className="max-w-[1640px] mx-auto p-4 py-12 grid md:grid-cols-4 gap-6">
         <div className="relative p-4 w-full max-w-sm bg-white rounded-lg border shadow-md sm:p-8 dark:bg-gray-800 dark:border-gray-700 hover:scale-105 duration-300">
           <h5 className="mb-4 text-xl font-medium text-gray-500 dark:text-gray-400">
             UI UX Design

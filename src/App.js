@@ -7,6 +7,7 @@ import HasilPekerjaan from './components/HasilPekerjaan';
 import AboutUs from './components/AboutUs';
 import Footer from './components/Footer';
 
+
 function App() {
   return (
     <div className="App">
