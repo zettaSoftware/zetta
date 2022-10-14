@@ -23,9 +23,6 @@ const Services = () => {
               src="https://res.cloudinary.com/hafidkrntn/image/upload/v1665544012/rwid/uiux_dnrjsq.jpg"
               alt="/"
             />
-            <p>
-              TESTINGGGG
-            </p>
           </div>
 
           {/* Card */}
