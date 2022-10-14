@@ -2,7 +2,7 @@ import React from "react";
 
 const Services = () => {
   return (
-    <div name="service" className="w-full text-black my-24">
+    <div name="service" className="w-full text-black my-6">
       <div className="max-w-[1240px] mx-auto py-6">
         <div className="">
           <h3 className="text-5xl font-bold mb-8">Services</h3>
@@ -14,7 +14,7 @@ const Services = () => {
           <div className="rounded-xl relative">
             {/* Overlay */}
             <div className="absolute w-full h-full rounded-xl text-white">
-              <button className="flex border-blue-700 border rounded-lg px-8 my-8 bg-white text-blue-700 hover:text-white hover:bg-blue-700  mx-2 absolute bottom-4">
+              <button className="flex border-blue-700 border rounded-lg px-8 mt-24 bg-white text-blue-700 hover:text-white hover:bg-blue-700  mx-2 absolute bottom-4">
                 UI UX Designer
               </button>
             </div>
@@ -29,7 +29,7 @@ const Services = () => {
           <div className="rounded-xl relative">
             {/* Overlay */}
             <div className="absolute w-full h-full rounded-xl text-white">
-            <button className="flex border-blue-700 border rounded-lg px-8 my-8 bg-white text-blue-700 hover:text-white hover:bg-blue-700  mx-2 absolute bottom-4">
+            <button className="flex border-blue-700 border rounded-lg px-8 mt-24 bg-white text-blue-700 hover:text-white hover:bg-blue-700  mx-2 absolute bottom-4">
                 Mobile Developer
               </button>
             </div>
@@ -44,7 +44,7 @@ const Services = () => {
           <div className="rounded-xl relative">
             {/* Overlay */}
             <div className="absolute w-full h-full rounded-xl text-white">
-            <button className="flex border-blue-700 border rounded-lg px-8 my-8 bg-white text-blue-700 hover:text-white hover:bg-blue-700  mx-2 absolute bottom-4">
+            <button className="flex border-blue-700 border rounded-lg px-8 mt-24 bg-white text-blue-700 hover:text-white hover:bg-blue-700  mx-2 absolute bottom-4">
                 Web Scraping
               </button>
             </div>
@@ -59,16 +59,19 @@ const Services = () => {
           <div className="rounded-xl relative">
             {/* Overlay */}
             <div className="absolute w-full h-full rounded-xl text-white">
-            <button className="flex border-blue-700 border rounded-lg px-8 my-8 bg-white text-blue-700 hover:text-white hover:bg-blue-700  mx-2 absolute bottom-4">
+            <button className="flex border-blue-700 border rounded-lg px-8 mt-24 bg-white text-blue-700 hover:text-white hover:bg-blue-700  mx-2 absolute bottom-4">
                 Web Development
-              </button>
+              </button>    
             </div>
             <img
               className="max-h-[160px] md:max-h-[200px] w-full object-cover rounded-xl"
               src="https://res.cloudinary.com/hafidkrntn/image/upload/v1665544011/rwid/web_design_mlrcvz.jpg"
               alt="/"
             />
+            
           </div>
+    
+          
         </div>
       </div>
     </div>
