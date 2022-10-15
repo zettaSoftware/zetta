@@ -11,61 +11,61 @@ const Services = () => {
         </div>
         <div className="max-w-[1640px] mx-auto p-4 py-12 grid md:grid-cols-4 gap-6">
           {/* Card */}
-          <div className="rounded-xl relative">
+          <div className="rounded relative">
             {/* Overlay */}
             <img
-              className="max-h-[160px] md:max-h-[200px] w-full object-cover rounded-xl"
+              className="max-h-[160px] md:max-h-[200px] w-full object-cover rounded"
               src="https://res.cloudinary.com/hafidkrntn/image/upload/v1665544012/rwid/uiux_dnrjsq.jpg"
               alt="/"
             />
             <div className="border-2">
-              <p className="text-xl ml-2 text-lg text-bold">
+              <p className="text-xl ml-2 text-bold">
                 UI UX Designer
               </p>
             </div>
           </div>
 
           {/* Card */}
-          <div className="rounded-xl relative">
+          <div className="rounded relative">
             {/* Overlay */}
             
             <img
-              className="max-h-[160px] md:max-h-[200px] w-full object-cover rounded-xl"
+              className="max-h-[160px] md:max-h-[200px] w-full object-cover rounded"
               src="https://res.cloudinary.com/hafidkrntn/image/upload/v1665544012/rwid/mobile_dev_zr4g9k.jpg"
               alt="/"
             />
             <div className="border-2">
-              <p className="text-xl ml-2 text-lg text-bold">
+              <p className="text-xl ml-2 text-bold">
                 Mobile Developer
               </p>
             </div>
           </div>
 
           {/* Card */}
-          <div className="rounded-xl relative">
+          <div className="rounded relative">
             {/* Overlay */}
             <img
-              className="max-h-[160px] md:max-h-[200px] w-full object-cover rounded-xl"
+              className="max-h-[160px] md:max-h-[200px] w-full object-cover rounded"
               src="https://res.cloudinary.com/hafidkrntn/image/upload/v1665544013/rwid/scraping_mybid0.jpg"
               alt="/"
             />
             <div className="border-2">
-              <p className="text-xl ml-2 text-lg text-bold">
+              <p className="text-xl ml-2 text-bold">
                 Web Scrapping
               </p>
             </div>
           </div>
 
           {/* Card */}
-          <div className="rounded-xl relative">
+          <div className="rounded relative">
             {/* Overlay */}
             <img
-              className="max-h-[160px] md:max-h-[200px] w-full object-cover rounded-xl"
+              className="max-h-[160px] md:max-h-[200px] w-full object-cover rounded"
               src="https://res.cloudinary.com/hafidkrntn/image/upload/v1665544011/rwid/web_design_mlrcvz.jpg"
               alt="/"
             />
             <div className="border-2">
-              <p className="text-xl ml-2 text-lg text-bold">
+              <p className="text-xl ml-2 text-bold">
                 Web Development
               </p>
             </div>
