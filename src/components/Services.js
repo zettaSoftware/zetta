@@ -13,62 +13,62 @@ const Services = () => {
           {/* Card */}
           <div className="rounded-xl relative">
             {/* Overlay */}
-            <div className="absolute w-full h-full rounded-xl text-white">
-              <button className="flex border-blue-700 border rounded-lg px-8 mt-24 bg-white text-blue-700 hover:text-white hover:bg-blue-700  mx-2 absolute bottom-4">
-                UI UX Designer
-              </button>
-            </div>
             <img
               className="max-h-[160px] md:max-h-[200px] w-full object-cover rounded-xl"
               src="https://res.cloudinary.com/hafidkrntn/image/upload/v1665544012/rwid/uiux_dnrjsq.jpg"
               alt="/"
             />
+            <div className="border-2">
+              <p className="text-xl ml-2 text-lg text-bold">
+                UI UX Designer
+              </p>
+            </div>
           </div>
 
           {/* Card */}
           <div className="rounded-xl relative">
             {/* Overlay */}
-            <div className="absolute w-full h-full rounded-xl text-white">
-            <button className="flex border-blue-700 border rounded-lg px-8 mt-24 bg-white text-blue-700 hover:text-white hover:bg-blue-700  mx-2 absolute bottom-4">
-                Mobile Developer
-              </button>
-            </div>
+            
             <img
               className="max-h-[160px] md:max-h-[200px] w-full object-cover rounded-xl"
               src="https://res.cloudinary.com/hafidkrntn/image/upload/v1665544012/rwid/mobile_dev_zr4g9k.jpg"
               alt="/"
             />
+            <div className="border-2">
+              <p className="text-xl ml-2 text-lg text-bold">
+                Mobile Developer
+              </p>
+            </div>
           </div>
 
           {/* Card */}
           <div className="rounded-xl relative">
             {/* Overlay */}
-            <div className="absolute w-full h-full rounded-xl text-white">
-            <button className="flex border-blue-700 border rounded-lg px-8 mt-24 bg-white text-blue-700 hover:text-white hover:bg-blue-700  mx-2 absolute bottom-4">
-                Web Scraping
-              </button>
-            </div>
             <img
               className="max-h-[160px] md:max-h-[200px] w-full object-cover rounded-xl"
               src="https://res.cloudinary.com/hafidkrntn/image/upload/v1665544013/rwid/scraping_mybid0.jpg"
               alt="/"
             />
+            <div className="border-2">
+              <p className="text-xl ml-2 text-lg text-bold">
+                Web Scrapping
+              </p>
+            </div>
           </div>
 
           {/* Card */}
           <div className="rounded-xl relative">
             {/* Overlay */}
-            <div className="absolute w-full h-full rounded-xl text-white">
-            <button className="flex border-blue-700 border rounded-lg px-8 mt-24 bg-white text-blue-700 hover:text-white hover:bg-blue-700  mx-2 absolute bottom-4">
-                Web Development
-              </button>    
-            </div>
             <img
               className="max-h-[160px] md:max-h-[200px] w-full object-cover rounded-xl"
               src="https://res.cloudinary.com/hafidkrntn/image/upload/v1665544011/rwid/web_design_mlrcvz.jpg"
               alt="/"
             />
-            
+            <div className="border-2">
+              <p className="text-xl ml-2 text-lg text-bold">
+                Web Development
+              </p>
+            </div>
           </div>
     
           
