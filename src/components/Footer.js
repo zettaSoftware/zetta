@@ -1,10 +1,10 @@
 import React from "react";
 import {
-  FaFacebook,
   FaGithub,
   FaInstagram,
   FaTwitter,
   FaLinkedin,
+  FaYoutube,
 } from "react-icons/fa";
 
 const Footer = () => {
@@ -14,7 +14,7 @@ const Footer = () => {
         <div className="col-span-2 pt-8 md:pt-2">
           <p className="text-left font-bold text-6xl">Zetta</p>
           <p className="text-left py-4">
-            The latest news, articles, and resources, sent to your inbox weekly.
+          Get Valuable Data To Grow your Business
           </p>
         </div>
         <div>
@@ -41,7 +41,7 @@ const Footer = () => {
       <div className="flex flex-col max-w-[1240px] px-2 py-4 mx-auto justify-between sm:flex-row text-center text-gray-500">
         <p className="py-4">Copyright @2022 Zetta Agency</p>
         <div className="flex justify-between sm:w-[300px] pt-4 text-2xl">
-         <button><FaFacebook /></button> 
+         <button><FaYoutube /></button> 
          <button><FaInstagram /></button> 
          <button><FaTwitter /></button> 
          <button><FaGithub /></button> 

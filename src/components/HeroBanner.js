@@ -13,9 +13,9 @@ const HeroBanner = () => {
           <p>
           Development to Web Scraping
           </p>
-          <button className="py-3 px-6 rounded-lg text-2xl bg-[#0000FF] text-white my-4">
-            Contact Us
-          </button>
+          {/* <button className="py-3 px-6 rounded-lg text-2xl bg-[#0000FF] text-white my-4">
+            Learn More
+          </button> */}
         </div>
         <div>
           <img
