@@ -5,15 +5,8 @@ const HeroBanner = () => {
     <div name="home" className="w-full flex flex-col justify-between">
       <div className="grid md:grid-cols-2 max-w-[1240px] m-auto py-20">
         <div className="flex flex-col md:items-start w-full px-2 py-8">
-          <h1 className="py-3 text-3xl md:text-5xl font-bold">
-            Best Technology
-          </h1>
-          <h1 className="py-3 text-3xl md:text-5xl font-bold">
-            Service For You In
-          </h1>
-          <h1 className="py-3 text-3xl md:text-5xl font-bold">
-            4.0 in The World
-          </h1>
+          <h1 className="py-3 text-3xl md:text-5xl font-bold">Get Valuable Data</h1>
+          <h1 className="py-3 text-3xl md:text-5xl font-bold">To Grow your Business</h1>
           <p>
             A website that serves services in the form of
           </p>
